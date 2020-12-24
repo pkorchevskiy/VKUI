@@ -11,6 +11,8 @@
   "defaultSchemeId": "bright_light",
   "sideEffects": [
     "./dist/lib/polyfills.js",
+    "./dist/es6/lib/polyfills.js",
+    "./dist/es6/index.js",
     "./dist/index.js",
     "*.css"
   ],
